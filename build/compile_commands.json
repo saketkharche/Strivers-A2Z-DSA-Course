@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/ABHYAS/Strivers-A2Z-DSA-Course/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -Dcpr_EXPORTS  -g -o CMakeFiles\\cpr.dir\\send_post_request.obj -c C:\\ABHYAS\\Strivers-A2Z-DSA-Course\\cpp-code-snippets-master\\cpr\\send_post_request.cpp",
+  "file": "C:/ABHYAS/Strivers-A2Z-DSA-Course/cpp-code-snippets-master/cpr/send_post_request.cpp",
+  "output": "CMakeFiles/cpr.dir/send_post_request.obj"
+}
+]
